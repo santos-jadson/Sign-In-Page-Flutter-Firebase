@@ -1,12 +1,12 @@
 # Login Page With Firebase
 
-![](assets/design/Design.jpeg)
+<img src="assets/design/Design.jpeg" width="490" height="410">
 
 ## Welcome
 
 That's a simple app I developed just for training
 
-####Features
+#### Features
 
 - Firebase Auth Integration
 - Login with Email and Password
@@ -15,7 +15,7 @@ That's a simple app I developed just for training
 - Register with email and password
 - List your phone contacts
 
-####Screens
+#### Screens
 
 - Login Screen
 - Sign Up Screen
